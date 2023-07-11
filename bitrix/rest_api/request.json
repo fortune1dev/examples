@@ -1,0 +1,28 @@
+[
+    {
+        "uuid": "",
+        "stocks": [
+            {
+                "uuid": "",
+                "quantity": 11
+            },
+            {
+                "uuid": "",
+                "quantity": 22
+            }
+        ]
+    },
+    {
+        "uuid": "",
+        "stocks": [
+            {
+                "uuid": "",
+                "quantity": 33
+            },
+            {
+                "uuid": "",
+                "quantity": 44
+            }
+        ]
+    }
+]
